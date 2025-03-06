@@ -9,7 +9,6 @@ int isSides(double sideA, double sideB, double sideC); // Verifica quais dos nú
 int main(void)
 {
     double a, b, c;
-    double areaT;
     int userContinue;
 
     do {
